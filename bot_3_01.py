@@ -3,7 +3,7 @@ from PIL import Image
 import io
 from telebot import types
 
-TOKEN = '7266590447:AAESJGCFLklDfT7-FDByk_LjhUcORbwfmVM'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
